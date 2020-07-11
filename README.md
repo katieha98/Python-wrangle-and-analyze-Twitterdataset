@@ -3,7 +3,7 @@
 
 WeRateDogs project is a part of *Data Analyst Nanodegree* program. This dataset is provided by Twitter account @dog_rates, I will perform wrangling process using Python language then deliver notable insights by descriptive statistics and visualizstion.
 
-**View my project at [this link](https://nbviewer.jupyter.org/github/katieha98/udacity-data-analyst/blob/master/p2-wrangle-and-analyze-data-with-python/wrangle_act.ipynb)**
+**View my project at [this link](https://nbviewer.jupyter.org/github/katiethaoha/Python-wrangle-and-analyze-Twitterdataset/blob/master/wrangle_act.ipynb)**
  
 Data wrangling is the process of cleaning, structuring, and enriching raw data into a desired format for better decision making in less time. The wrangling process is divided into four main sections:
 * Gathering
